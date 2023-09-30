@@ -19,8 +19,8 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/social-media-app-backend.git
-cd social-media-app-backend
+git clone https://github.com/ScaryWings83289/twittrify-backend.git
+cd twittrify-backend
 ```
 
 2. Install dependencies:
